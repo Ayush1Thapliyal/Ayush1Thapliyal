@@ -10,6 +10,7 @@ main()
 	}
 	printf("which number you want to count");
 	scanf("%d",&n);
+	for(i=0;i<10;++i);
 	{
 		if(a[i]==n)
 		++c;
